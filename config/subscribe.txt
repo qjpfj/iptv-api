@@ -10,3 +10,8 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://live.hacks.tools/tv/iptv6.txt
 https://live.hacks.tools/tv/iptv4.txt
+raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
+https://freetv.fun/test_channels_taiwan_new.m3u
+https://freetv.fun/test_channels_taiwan_original_new.txt
+https://freetv.fun/test_channels_hong_kong_new.m3u
